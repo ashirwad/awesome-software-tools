@@ -9,3 +9,4 @@ Software tools that I use regularly for work and personal projects
 # Screen recording
 
 - [Carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard.
+- [ShareX](https://github.com/ShareX/ShareX) - A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
