@@ -1,10 +1,14 @@
 # awesome-software-tools
 Software tools that I use regularly for work and personal projects
 
-# Diagram
+# Figure
 
 - [Tree online](https://gitlab.com/nfriend/tree-online) - An online [tree](http://mama.indstate.edu/users/ice/tree/)-like utility for generating ASCII folder structure diagrams.
 - [draw.io](https://github.com/jgraph/drawio) - A JavaScript, client-side editor for general diagramming and whiteboarding.
+
+# Geospatial
+
+- [kepler.gl](https://kepler.gl/) - A powerful open source geospatial analysis tool for large-scale data sets.
 
 # Table
 
