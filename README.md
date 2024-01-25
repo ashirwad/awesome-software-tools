@@ -9,6 +9,7 @@ Software tools that I use regularly for work and personal projects
 # Geospatial
 
 - [kepler.gl](https://kepler.gl/) - A powerful open source geospatial analysis tool for large-scale data sets.
+- [flowmap.blue](https://www.flowmap.blue/) - Create geographic flow maps representing numbers of movements between locations.
 
 # Table
 
