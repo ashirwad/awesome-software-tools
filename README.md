@@ -6,6 +6,7 @@ Software tools that I use regularly for work and personal projects
 - [Tree Online](https://gitlab.com/nfriend/tree-online) - An online [tree](http://mama.indstate.edu/users/ice/tree/)-like utility for generating ASCII folder structure diagrams.
 - [draw.io](https://github.com/jgraph/drawio) - A JavaScript, client-side editor for general diagramming and whiteboarding.
 - [Mermaid](https://github.com/mermaid-js/mermaid) - Generate diagrams from markdown-like text.
+- [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 # Geospatial
 
