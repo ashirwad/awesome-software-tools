@@ -16,6 +16,7 @@ Software tools that I use regularly for work and personal projects
 # Table
 
 - [Tables Generator](https://www.tablesgenerator.com/) - Online LaTeX, HTML, Text, Markdown, and MediaWiki tables generator.
+- [gt](https://github.com/rstudio/gt/) - Easily generate information-rich, publication-quality tables from R.
 
 # Screen recording
 
